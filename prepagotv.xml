@@ -14,6 +14,9 @@
   <channel id="ANTV">
     <display-name lang="en">ANTV</display-name>
   </channel>
+  <channel id="TV EPACO">
+    <display-name lang="en">TV EPACO</display-name>
+  </channel>
   <channel id="America TV - ARGENTINA">
     <display-name lang="en">America TV - ARGENTINA</display-name>
   </channel>
@@ -44,8 +47,8 @@
   <channel id="cnn">
     <display-name lang="en">cnn</display-name>
   </channel>
-  <channel id="CNN CHILE HD">
-    <display-name lang="en">CNN CHILE HD</display-name>
+  <channel id="CNN CHILE  HD">
+    <display-name lang="en">CNN CHILE  HD</display-name>
   </channel>
   <channel id="24 HORAS">
     <display-name lang="en">24 HORAS</display-name>
@@ -144,7 +147,7 @@
     <display-name lang="en">Fox sports 2 FHD</display-name>
   </channel>
   <channel id="WIN SPORTS +">
-    <display-name lang="en">WINSPORTS *HQ</display-name>
+    <display-name lang="en">WIN SPORTS +</display-name>
   </channel>
   <channel id="Win">
     <display-name lang="en">Win</display-name>
@@ -233,17 +236,23 @@
   <channel id="Telecafe">
     <display-name lang="es">Telecafe</display-name>
   </channel>
+  <channel id="TVE">
+    <display-name lang="es">TVE</display-name>
+  </channel>
+  <channel id="I-sat">
+    <display-name lang="es">I-sat</display-name>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="es">HBO 2 HD</display-name>
+  </channel>
+  <channel id="America TV - PERU">
+    <display-name lang="es">America TV - PERU</display-name>
+  </channel>
   <channel id="Zona Latina">
     <display-name lang="es">Zona Latina</display-name>
   </channel>
   <channel id="ViaX">
     <display-name lang="es">ViaX</display-name>
-  </channel>
-  <channel id="TVE">
-    <display-name lang="es">TVE</display-name>
-  </channel>
-  <channel id="America TV - PERU">
-    <display-name lang="es">America TV - PERU</display-name>
   </channel>
   <channel id="CDO basico">
     <display-name lang="es">CDO basico</display-name>
@@ -323,8 +332,8 @@
   <channel id="AMC FHD">
     <display-name lang="es">AMC FHD</display-name>
   </channel>
-  <channel id="FX HD">
-    <display-name lang="es">FX HD</display-name>
+  <channel id="FX  HD">
+    <display-name lang="es">FX  HD</display-name>
   </channel>
   <channel id="FX">
     <display-name lang="es">FX</display-name>
@@ -356,17 +365,14 @@
   <channel id="FX Movies">
     <display-name lang="es">FX Movies</display-name>
   </channel>
-  <channel id="FXM HD">
-    <display-name lang="es">FXM HD</display-name>
+  <channel id="FXM  HD">
+    <display-name lang="es">FXM  HD</display-name>
   </channel>
   <channel id="AXN">
     <display-name lang="es">AXN</display-name>
   </channel>
   <channel id="AXN HD">
     <display-name lang="es">AXN HD</display-name>
-  </channel>
-  <channel id="I-sat">
-    <display-name lang="es">I-sat</display-name>
   </channel>
   <channel id="TCM">
     <display-name lang="es">TCM</display-name>
@@ -385,6 +391,24 @@
   </channel>
   <channel id="PARAMOUNT HD">
     <display-name lang="es">PARAMOUNT HD</display-name>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="es">HBO HD</display-name>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="es">HBO Mundi</display-name>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="es">HBO Signature</display-name>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="es">HBO FAMILY</display-name>
   </channel>
   <channel id="TBS">
     <display-name lang="es">TBS</display-name>
